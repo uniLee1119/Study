@@ -1,2 +1,2 @@
 # Study
-Welcome! uniLee's Study repository
+Welcome! uniLee's study repository
